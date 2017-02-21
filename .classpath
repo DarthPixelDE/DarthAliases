@@ -25,5 +25,10 @@
 	<classpathentry kind="lib" path="C:/Users/Jonas/#GitReps/DarthAliases/craftbukkit.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Jonas/#GitReps/DarthAliases/EssentialsX-2.0.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Jonas/#GitReps/DarthAliases/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="E:/#MCServer 1.10/craftbukkit-1.10.2.jar"/>
+	<classpathentry kind="lib" path="E:/#MCServer 1.10/spigot-1.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonas/#GitReps/DarthPlugins/DarthAliases/craftbukkit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonas/#GitReps/DarthPlugins/DarthAliases/EssentialsX-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jonas/#GitReps/DarthPlugins/DarthAliases/PermissionsEx-1.23.4.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
