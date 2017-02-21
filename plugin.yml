@@ -1,0 +1,22 @@
+main: DarthPlugins.DarthAliases.Main
+author: DarthPixel
+version: 1.0
+database: false
+depend: [PermissionsEx]
+softdepend: []
+loadbefore: []
+prefix: &3DarthAlias
+name: DarthAlias
+
+commands:
+   alias:
+      description: Grundlegender Befehl dieses Plugins.
+      permission: darthalias.alias.admin
+      usage: 
+         /alias <[Befehl]> <alias>
+         /alias list
+         /alias help
+
+permissions:
+   darthalias.alias.admin:
+      description: Permission zur Verwaltung der Aliase.
